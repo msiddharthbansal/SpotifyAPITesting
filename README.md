@@ -13,3 +13,5 @@ Above is the result of the testing. The result indicate the following conclusion
 3. 1 test: Fetching Album Details took 293 ms.
 
 Overall, the whole program took 768 ms in total and all tests ran "successfully".
+
+Further into the problem, I am thinking to to Create, Update and Delete playlist using the Spotify API.
