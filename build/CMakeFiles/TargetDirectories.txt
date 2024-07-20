@@ -1,0 +1,3 @@
+/media/sid/6D285D002D0F0514/SpotifyAPITesting/build/CMakeFiles/runTests.dir
+/media/sid/6D285D002D0F0514/SpotifyAPITesting/build/CMakeFiles/edit_cache.dir
+/media/sid/6D285D002D0F0514/SpotifyAPITesting/build/CMakeFiles/rebuild_cache.dir

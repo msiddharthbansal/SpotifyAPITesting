@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/runTests.dir/src/main.cpp.o CMakeFiles/runTests.dir/src/spotify_api.cpp.o CMakeFiles/runTests.dir/tests/test_spotify_api.cpp.o -o runTests  /usr/lib/x86_64-linux-gnu/libcurl.so -ljsoncpp -lgtest -lgtest_main 
