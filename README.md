@@ -1,6 +1,6 @@
 I have successfully performed testing of Searching for a Song and Fetching Album Details using Spotify Web API.
 
-# Please Note: The authorization code for the API depends on the Client ID and Client Secret which are provided by the Developer Environment of Spotify.
+*Please Note: The authorization code for the API depends on the Client ID and Client Secret which are provided by the Developer Environment of Spotify.
 
 I have used GoogleTest for testing and Curl software for my problem.
 
